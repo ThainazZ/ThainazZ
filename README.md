@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/rzhRWftV63NbdJEnPj/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Olá, eu sou a Thainá!</h1>
-<h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas, e foco <br>minha formação em UX/UI Designer e desenvolvimento Front-End.</h3>
+<h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas, e foco <br>minha formação em UX/UI Design e desenvolvimento Front-End.</h3>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/thain%C3%A1-souza-799a85186/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
