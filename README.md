@@ -11,9 +11,7 @@
 <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif">
   <h3 align="center">Tecnologias favoritas</h3>
 <div id="badges" align="center">
- <h5 align="center"> :computer: Fullstack com aplicações em C#,.Net, JavaScript e React :computer: </h5>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
+ <h5 align="center"> :computer: Front-End com HTML, CSS, JavaScript e React :computer: </h5>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40 height="40"/>
