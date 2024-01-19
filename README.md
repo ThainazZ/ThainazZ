@@ -25,6 +25,6 @@
     Atualmente, sou <b>Desenvolvedora de Sistemas I</b> na divisão de Soluções Industriais e Manutenção Industrial <br />  na Grendene S/A, compartilhando propósitos para fazer moda acessível e sustentável, de forma criativa e inovadora.
     </h4>
   </div>
-  <a href="https://www.linkedin.com/in/thain%C3%A1-de-souza-799a85186/">
+  <a href="https://www.linkedin.com/in/thain%C3%A1-de-souza-799a85186/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
 </a>
