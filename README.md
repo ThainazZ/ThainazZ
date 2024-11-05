@@ -25,6 +25,6 @@
     Additionally, I`ve participated from end to end within the creation of new products and problem-solving solutions with SQL, SQL Server, database diagrams.
     </h4>
   </div>
-  <a href="https://www.linkedin.com/in/thain%C3%A1-de-souza-799a85186/" target="_blank">
+  <a href="www.linkedin.com/in/thainá-dias-799a85186" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
 </a>
