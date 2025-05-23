@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/rzhRWftV63NbdJEnPj/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi, this is Thainá!</h1>
-<h3 align="center">I`m a systems developer at Thermo Fisher Scientific </h3>
+<h3 align="center">I`m a software developer at Thermo Fisher Scientific </h3>
 <div id="badges" align="center">
 
 <body>
